@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Henry and I nerdily like robotics 🤖 🚗. 
+🤓's name is Henry. 🤓 likes robots 🤖 🚗. 
 
 <!--
 **hungdche/hungdche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
